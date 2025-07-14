@@ -1,4 +1,5 @@
-<img width="515" height="372" alt="image" src="https://github.com/user-attachments/assets/0f57eb55-0db0-4a5e-bf4d-c23fbf2f352f" /># Image-Caption-Generator-Using-Deep-Learning
+
+# Image-Caption-Generator-Using-Deep-Learning
 
 ● Developed an encoder-decoder model using InceptionV3 (CNN) +
 LSTM for image captioning.
@@ -17,3 +18,4 @@ models.
 ● Tools : TensorFlow , Keras , OpenCV , CNN (InceptionV3) , LSTM ,
 Word Embeddings , BLEU Score , Python
 
+<img width="515" height="372" alt="image" src="https://github.com/user-attachments/assets/0f57eb55-0db0-4a5e-bf4d-c23fbf2f352f" />
